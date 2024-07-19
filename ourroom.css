@@ -1,0 +1,42 @@
+.keto {
+    float: right;
+}
+
+a {
+    margin: 10px;
+}
+
+#A {
+    width: 150px;
+    height: 20px;
+}
+.bed-room {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.room {
+    display: flex;
+    align-items: center;
+}
+
+.room:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.room img {
+    max-width: 50%;
+    height: auto;
+}
+
+.room-section h3 {
+    flex: 1;
+    margin: 0 20px;
+}
+h1{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    padding-left: 700px;
+}

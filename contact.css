@@ -1,0 +1,37 @@
+.keto {
+    float: right;
+}
+
+a {
+    margin: 10px;
+}
+
+#A {
+    width: 150px;
+    height: 20px;
+}
+h1{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    padding-left: 700px;
+}
+input{
+    width: 290px;
+    height: 50px;
+    padding-left: 10px;
+}
+button{
+    width: 170px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+}
+form{
+    float: left;
+}
+iframe{
+    float:right;
+    margin-right: 400px;
+}

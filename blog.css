@@ -1,0 +1,30 @@
+.keto {
+    float: right;
+}
+
+a {
+    margin: 10px;
+}
+
+#A {
+    width: 150px;
+    height: 20px;
+}
+h1{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    padding-left: 700px;
+}
+.div{
+    width: 100px;
+    height: 100%;
+    display: flex;
+}
+.blog{
+    margin: 80px;
+    width: 500px;
+    height: 430px;
+    background-color: whitesmoke;
+    padding: 20px;
+}

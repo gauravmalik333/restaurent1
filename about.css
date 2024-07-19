@@ -1,0 +1,42 @@
+button {
+    background-color: black;
+    color: #FFFFFF;
+}
+p{
+    float: left;
+    width:50%;
+    font-size: large;
+}
+img{
+    float: right;
+}
+.box{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+  overflow: auto;
+}
+body{
+    background-color: aqua;
+}
+.keto {
+    float: right;
+}
+
+a {
+    margin: 10px;
+}
+
+#A {
+    width: 150px;
+    height: 20px;
+}
+h1{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    padding-left: 700px;
+}
+#all{
+    float: left;
+}
